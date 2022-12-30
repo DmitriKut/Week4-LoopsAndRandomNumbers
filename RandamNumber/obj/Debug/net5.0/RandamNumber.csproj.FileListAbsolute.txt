@@ -1,0 +1,16 @@
+C:\Users\atrei\source\repos\LoopsAndRandomNumbers\RandamNumber\bin\Debug\net5.0\RandamNumber.exe
+C:\Users\atrei\source\repos\LoopsAndRandomNumbers\RandamNumber\bin\Debug\net5.0\RandamNumber.deps.json
+C:\Users\atrei\source\repos\LoopsAndRandomNumbers\RandamNumber\bin\Debug\net5.0\RandamNumber.runtimeconfig.json
+C:\Users\atrei\source\repos\LoopsAndRandomNumbers\RandamNumber\bin\Debug\net5.0\RandamNumber.runtimeconfig.dev.json
+C:\Users\atrei\source\repos\LoopsAndRandomNumbers\RandamNumber\bin\Debug\net5.0\RandamNumber.dll
+C:\Users\atrei\source\repos\LoopsAndRandomNumbers\RandamNumber\bin\Debug\net5.0\ref\RandamNumber.dll
+C:\Users\atrei\source\repos\LoopsAndRandomNumbers\RandamNumber\bin\Debug\net5.0\RandamNumber.pdb
+C:\Users\atrei\source\repos\LoopsAndRandomNumbers\RandamNumber\obj\Debug\net5.0\RandamNumber.csproj.AssemblyReference.cache
+C:\Users\atrei\source\repos\LoopsAndRandomNumbers\RandamNumber\obj\Debug\net5.0\RandamNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atrei\source\repos\LoopsAndRandomNumbers\RandamNumber\obj\Debug\net5.0\RandamNumber.AssemblyInfoInputs.cache
+C:\Users\atrei\source\repos\LoopsAndRandomNumbers\RandamNumber\obj\Debug\net5.0\RandamNumber.AssemblyInfo.cs
+C:\Users\atrei\source\repos\LoopsAndRandomNumbers\RandamNumber\obj\Debug\net5.0\RandamNumber.csproj.CoreCompileInputs.cache
+C:\Users\atrei\source\repos\LoopsAndRandomNumbers\RandamNumber\obj\Debug\net5.0\RandamNumber.dll
+C:\Users\atrei\source\repos\LoopsAndRandomNumbers\RandamNumber\obj\Debug\net5.0\ref\RandamNumber.dll
+C:\Users\atrei\source\repos\LoopsAndRandomNumbers\RandamNumber\obj\Debug\net5.0\RandamNumber.pdb
+C:\Users\atrei\source\repos\LoopsAndRandomNumbers\RandamNumber\obj\Debug\net5.0\RandamNumber.genruntimeconfig.cache

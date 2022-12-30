@@ -1,0 +1,15 @@
+C:\Users\atrei\source\repos\LoopsAndRandomNumbers\GuessingGameinfinite\obj\Debug\net5.0\GuessingGameinfinite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atrei\source\repos\LoopsAndRandomNumbers\GuessingGameinfinite\obj\Debug\net5.0\GuessingGameinfinite.AssemblyInfoInputs.cache
+C:\Users\atrei\source\repos\LoopsAndRandomNumbers\GuessingGameinfinite\obj\Debug\net5.0\GuessingGameinfinite.AssemblyInfo.cs
+C:\Users\atrei\source\repos\LoopsAndRandomNumbers\GuessingGameinfinite\obj\Debug\net5.0\GuessingGameinfinite.csproj.CoreCompileInputs.cache
+C:\Users\atrei\source\repos\LoopsAndRandomNumbers\GuessingGameinfinite\bin\Debug\net5.0\GuessingGameinfinite.exe
+C:\Users\atrei\source\repos\LoopsAndRandomNumbers\GuessingGameinfinite\bin\Debug\net5.0\GuessingGameinfinite.deps.json
+C:\Users\atrei\source\repos\LoopsAndRandomNumbers\GuessingGameinfinite\bin\Debug\net5.0\GuessingGameinfinite.runtimeconfig.json
+C:\Users\atrei\source\repos\LoopsAndRandomNumbers\GuessingGameinfinite\bin\Debug\net5.0\GuessingGameinfinite.runtimeconfig.dev.json
+C:\Users\atrei\source\repos\LoopsAndRandomNumbers\GuessingGameinfinite\bin\Debug\net5.0\GuessingGameinfinite.dll
+C:\Users\atrei\source\repos\LoopsAndRandomNumbers\GuessingGameinfinite\bin\Debug\net5.0\ref\GuessingGameinfinite.dll
+C:\Users\atrei\source\repos\LoopsAndRandomNumbers\GuessingGameinfinite\bin\Debug\net5.0\GuessingGameinfinite.pdb
+C:\Users\atrei\source\repos\LoopsAndRandomNumbers\GuessingGameinfinite\obj\Debug\net5.0\GuessingGameinfinite.dll
+C:\Users\atrei\source\repos\LoopsAndRandomNumbers\GuessingGameinfinite\obj\Debug\net5.0\ref\GuessingGameinfinite.dll
+C:\Users\atrei\source\repos\LoopsAndRandomNumbers\GuessingGameinfinite\obj\Debug\net5.0\GuessingGameinfinite.pdb
+C:\Users\atrei\source\repos\LoopsAndRandomNumbers\GuessingGameinfinite\obj\Debug\net5.0\GuessingGameinfinite.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\atrei\source\repos\LoopsAndRandomNumbers\GuessingGameThreeTries\bin\Debug\net5.0\GuessingGameThreeTries.exe
+C:\Users\atrei\source\repos\LoopsAndRandomNumbers\GuessingGameThreeTries\bin\Debug\net5.0\GuessingGameThreeTries.deps.json
+C:\Users\atrei\source\repos\LoopsAndRandomNumbers\GuessingGameThreeTries\bin\Debug\net5.0\GuessingGameThreeTries.runtimeconfig.json
+C:\Users\atrei\source\repos\LoopsAndRandomNumbers\GuessingGameThreeTries\bin\Debug\net5.0\GuessingGameThreeTries.runtimeconfig.dev.json
+C:\Users\atrei\source\repos\LoopsAndRandomNumbers\GuessingGameThreeTries\bin\Debug\net5.0\GuessingGameThreeTries.dll
+C:\Users\atrei\source\repos\LoopsAndRandomNumbers\GuessingGameThreeTries\bin\Debug\net5.0\ref\GuessingGameThreeTries.dll
+C:\Users\atrei\source\repos\LoopsAndRandomNumbers\GuessingGameThreeTries\bin\Debug\net5.0\GuessingGameThreeTries.pdb
+C:\Users\atrei\source\repos\LoopsAndRandomNumbers\GuessingGameThreeTries\obj\Debug\net5.0\GuessingGameThreeTries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atrei\source\repos\LoopsAndRandomNumbers\GuessingGameThreeTries\obj\Debug\net5.0\GuessingGameThreeTries.AssemblyInfoInputs.cache
+C:\Users\atrei\source\repos\LoopsAndRandomNumbers\GuessingGameThreeTries\obj\Debug\net5.0\GuessingGameThreeTries.AssemblyInfo.cs
+C:\Users\atrei\source\repos\LoopsAndRandomNumbers\GuessingGameThreeTries\obj\Debug\net5.0\GuessingGameThreeTries.csproj.CoreCompileInputs.cache
+C:\Users\atrei\source\repos\LoopsAndRandomNumbers\GuessingGameThreeTries\obj\Debug\net5.0\GuessingGameThreeTries.dll
+C:\Users\atrei\source\repos\LoopsAndRandomNumbers\GuessingGameThreeTries\obj\Debug\net5.0\ref\GuessingGameThreeTries.dll
+C:\Users\atrei\source\repos\LoopsAndRandomNumbers\GuessingGameThreeTries\obj\Debug\net5.0\GuessingGameThreeTries.pdb
+C:\Users\atrei\source\repos\LoopsAndRandomNumbers\GuessingGameThreeTries\obj\Debug\net5.0\GuessingGameThreeTries.genruntimeconfig.cache
+C:\Users\atrei\source\repos\LoopsAndRandomNumbers\GuessingGameThreeTries\obj\Debug\net5.0\GuessingGameThreeTries.csproj.AssemblyReference.cache

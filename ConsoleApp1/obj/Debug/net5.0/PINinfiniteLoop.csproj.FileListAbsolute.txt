@@ -1,0 +1,16 @@
+C:\Users\atrei\source\repos\LoopsAndRandomNumbers\ConsoleApp1\obj\Debug\net5.0\PINinfiniteLoop.csproj.AssemblyReference.cache
+C:\Users\atrei\source\repos\LoopsAndRandomNumbers\ConsoleApp1\obj\Debug\net5.0\PINinfiniteLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atrei\source\repos\LoopsAndRandomNumbers\ConsoleApp1\obj\Debug\net5.0\PINinfiniteLoop.AssemblyInfoInputs.cache
+C:\Users\atrei\source\repos\LoopsAndRandomNumbers\ConsoleApp1\obj\Debug\net5.0\PINinfiniteLoop.AssemblyInfo.cs
+C:\Users\atrei\source\repos\LoopsAndRandomNumbers\ConsoleApp1\obj\Debug\net5.0\PINinfiniteLoop.csproj.CoreCompileInputs.cache
+C:\Users\atrei\source\repos\LoopsAndRandomNumbers\ConsoleApp1\bin\Debug\net5.0\PINinfiniteLoop.exe
+C:\Users\atrei\source\repos\LoopsAndRandomNumbers\ConsoleApp1\bin\Debug\net5.0\PINinfiniteLoop.deps.json
+C:\Users\atrei\source\repos\LoopsAndRandomNumbers\ConsoleApp1\bin\Debug\net5.0\PINinfiniteLoop.runtimeconfig.json
+C:\Users\atrei\source\repos\LoopsAndRandomNumbers\ConsoleApp1\bin\Debug\net5.0\PINinfiniteLoop.runtimeconfig.dev.json
+C:\Users\atrei\source\repos\LoopsAndRandomNumbers\ConsoleApp1\bin\Debug\net5.0\PINinfiniteLoop.dll
+C:\Users\atrei\source\repos\LoopsAndRandomNumbers\ConsoleApp1\bin\Debug\net5.0\ref\PINinfiniteLoop.dll
+C:\Users\atrei\source\repos\LoopsAndRandomNumbers\ConsoleApp1\bin\Debug\net5.0\PINinfiniteLoop.pdb
+C:\Users\atrei\source\repos\LoopsAndRandomNumbers\ConsoleApp1\obj\Debug\net5.0\PINinfiniteLoop.dll
+C:\Users\atrei\source\repos\LoopsAndRandomNumbers\ConsoleApp1\obj\Debug\net5.0\ref\PINinfiniteLoop.dll
+C:\Users\atrei\source\repos\LoopsAndRandomNumbers\ConsoleApp1\obj\Debug\net5.0\PINinfiniteLoop.pdb
+C:\Users\atrei\source\repos\LoopsAndRandomNumbers\ConsoleApp1\obj\Debug\net5.0\PINinfiniteLoop.genruntimeconfig.cache
